@@ -1,0 +1,99 @@
+body{
+    padding: 0 10% 0 10%;
+    font-family: 'Poppins';
+}
+
+section{
+    padding: 50px 0 50px 0;
+}
+.navbar {
+    margin-top: 26px;
+    font-family: 'Poppins';
+}
+.navbar img {
+    width: 137px;
+}
+
+#navbarNav {
+    margin-left: 442px;
+    float: right;
+}
+
+.nav-item {
+    margin-left: 12px;
+}
+
+.banner-sec{
+    font-family: 'Poppins';
+}
+.banner-sec img {
+    width: 600px;
+}
+
+.banner-txt {
+    margin-top: 100px;
+}
+
+.product{
+    font-family: 'Poppins';
+}
+.card-body{
+    margin-top: 35px;
+    padding: 10px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+}
+
+.product h3{
+    margin-top: 30px;
+    font-size: 20px;.
+    font-weight: 900;
+
+}
+
+.product p{
+    color: #A7A7A7;
+}
+
+.product img{
+    width: 80%;
+}
+
+.laptop{
+    margin-top: 50px;
+}
+.categories{
+    margin-top: 50px;
+}
+
+.pale img{
+    width: 100%;
+
+}
+
+.bag{
+    margin-top: 100px;
+}
+
+.img-size img {
+    width: 50%;
+    margin-top: 25px;
+}
+.img-size {
+    height: 166px;
+    width: 201px;
+}
+
+.categories{
+    padding-bottom: 200px;
+    font-family: 'Poppins';
+}
+
+.custombar {
+    background-image: linear-gradient(45deg, #FF9C35, #FF9C35);
+    width: 73px;
+    height: 10px;
+    border-radius: 50px;
+    margin: 20px 529px;
+}
