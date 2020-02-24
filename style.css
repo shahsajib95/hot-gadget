@@ -5,21 +5,23 @@ body{
 a{
     cursor: pointer;
 }
+h1{
+    font-weight: 800;
+}
 .container {
     margin-bottom: 100px;
 }
 .navbar {
     margin-top: 26px;
-    font-family: 'Poppins';
+    
 }
 
 .nav-item {
     margin-right: 20px;
    }
-
-   .carousel-indicators li {
-    background: gray;
-    width: 37px;
+.carousel-indicators li {
+    background: #FFCA1C;
+    width: 30px;
     height: 0;
     border-radius: 12px;
 }
@@ -34,13 +36,13 @@ a{
     margin-top: 35px;
     padding: 10px;
     -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
--moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
 }
 
 .product h3{
     margin-top: 30px;
-    font-size: 20px;.
+    font-size: 20px;
     font-weight: 900;
 }
 
@@ -79,10 +81,6 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
     width: 201px;
 }
 
-.categories{
-    font-family: 'Poppins';
-}
-
 .custombar {
     background-image: linear-gradient(to left, #FF9C35, #FF9C35);
     width: 73px;
@@ -93,9 +91,7 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
 
 .client img{
     margin: 35px 0 20px 450px;
-
 }
-
 
 #contact{
     background-color: #F2F3F8;
@@ -103,12 +99,10 @@ box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
     font-family: 'poppins';
     border-radius: 7px;
 }
-
 input[type=text]{
     border: none;
     padding: 5px 25px;
 }
-
 input[type=submit]{
     background-color: #FF9C35;
     border: none;
@@ -117,7 +111,6 @@ input[type=submit]{
     color: white;
     margin-left: 10px;
 }
-
 h5{
     font-weight: 800;
     margin-bottom: 50px;
