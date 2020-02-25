@@ -8,17 +8,18 @@ a{
 h1{
     font-weight: 800;
 }
+
+.navbar{
+    background-color: white!important;
+
+}
+.navbar-nav {
+    margin-left: 54%;
+    
+}
 .container {
     margin-bottom: 100px;
 }
-.navbar {
-    margin-top: 26px;
-    
-}
-
-.nav-item {
-    margin-right: 20px;
-   }
 .carousel-indicators li {
     background: gray;
     width: 30px;
@@ -68,34 +69,26 @@ h1{
     margin-top: 50px;
 }
 
+
 .pale img{
     width: 100%;
 
 }
-
-.bag{
-    margin-top: 100px;
+.img-size {
+    padding: 29% 18%;
 }
-
 .img-size img {
     width: 50%;
-    margin-top: 25px;
 }
-.img-size {
-    height: 166px;
-    width: 201px;
-}
-
 .custombar {
     background-image: linear-gradient(to right, #FFD019, #FFAF2A);
     width: 73px;
     height: 10px;
     border-radius: 50px;
-    margin: 20px 529px;
+    margin: 0%  0 10% 47%;
 }
-
-.client img{
-    margin: 35px 0 20px 450px;
+.client img {
+    margin: 10% 0 15% 37%;
 }
 
 #contact{
